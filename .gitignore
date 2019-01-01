@@ -1,0 +1,8 @@
+.vscode
+.idea
+cmake-build-*
+invaders.h
+invaders.g
+invaders.e
+invaders.f
+cpudiag.bin
